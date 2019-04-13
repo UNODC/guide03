@@ -24,168 +24,168 @@
   },
   "readingOrder": [
     {
-      "href": "EPUB/xhtml/raw/sfsh1t.xhtml",
+      "href": "content/xhtml/title.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/smbgf8.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/copyright.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/s0fr6d.xhtml",
+     "href": "https://fieldguides.github.io/library/en/content/frontpage.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/ssw8um.xhtml",
+      "href": "content/xhtml/introduction.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page.xhtml",
+      "href": "content/xhtml/chapter1.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page1.xhtml",
+      "href": "content/xhtml/chapter2.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page4.xhtml",
+      "href": "content/xhtml/chapter3.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page10.xhtml",
+      "href": "content/xhtml/chapter4.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page11.xhtml",
+      "href": "content/xhtml/chapter5.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page12.xhtml",
+      "href": "content/xhtml/chapter6.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page13.xhtml",
+      "href": "content/xhtml/chapter7.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page14.xhtml",
+      "href": "content/xhtml/chapter8.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page15.xhtml",
+      "href": "content/xhtml/chapter9.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page17.xhtml",
+      "href": "content/xhtml/chapter10.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page18.xhtml",
+      "href": "content/xhtml/chapter11.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page20.xhtml",
+      "href": "content/xhtml/chapter12.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page21.xhtml",
+      "href": "content/xhtml/chapter13.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page23.xhtml",
+      "href": "content/xhtml/chapter14.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page24.xhtml",
+      "href": "content/xhtml/chapter15.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/sdx6tv.xhtml",
+      "href": "content/xhtml/chapter16.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/slufku.xhtml",
+      "href": "content/xhtml/chapter17.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page28.xhtml",
+      "href": "content/xhtml/chapter18.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "href": "content/xhtml/chapter19.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "EPUB/xhtml/raw/page.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/backcover.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
@@ -194,27 +194,18 @@
   ],
   "resources": [
     {
-      "href": "EPUB/xhtml/raw/contents.xhtml",
-      "type": "application/xhtml+xml",
-      "rel": "contents"
-    },
-    {
-      "href": "EPUB/xhtml/raw/contents.ncx",
-      "type": "application/x-dtbncx+xml"
-    },
-    {
-      "href": "EPUB/imgs/defaultCover.png",
+      "href": "content/imgs/defaultCover.png",
       "type": "image/png",
       "height": 324,
       "width": 250,
       "rel": "cover"
     },
     {
-      "href": "EPUB/css/base.css",
+      "href": "../resources/css/base.css",
       "type": "text/css"
     },
     {
-      "href": "EPUB/css/global.css",
+      "href": "../resources/css/global.css",
       "type": "text/css"
     },
     {
@@ -224,99 +215,99 @@
   ],
   "toc": [
     {
-      "href": "EPUB/xhtml/raw/sfsh1t.xhtml",
+      "href": "content/xhtml/title.xhtml",
       "title": "Title"
     },
     {
-      "href": "EPUB/xhtml/raw/smbgf8.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/copyright.xhtml",
       "title": "Inside Cover"
     },
     {
-      "href": "EPUB/xhtml/raw/s0fr6d.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/frontpage.xhtml",
       "title": "Front Page"
     },
     {
-      "href": "EPUB/xhtml/raw/ssw8um.xhtml",
+      "href": "content/xhtml/introduction.xhtml",
       "title": "Introduction"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page.xhtml",
+      "href": "content/xhtml/chapter1.xhtml",
       "title": "1. What is Wildlife Crime"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page1.xhtml",
+      "href": "content/xhtml/chapter2.xhtml",
       "title": "2. CITES"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page4.xhtml",
+      "href": "content/xhtml/chapter3.xhtml",
       "title": "3. National Legislation"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page10.xhtml",
+      "href": "content/xhtml/chapter4.xhtml",
       "title": "4. Investigating Wildlife Crime"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page11.xhtml",
+      "href": "content/xhtml/chapter5.xhtml",
       "title": "5. Sources of Information"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page12.xhtml",
+      "href": "content/xhtml/chapter6.xhtml",
       "title": "6. The Internet and Wildlife Crime"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page13.xhtml",
+      "href": "content/xhtml/chapter7.xhtml",
       "title": "7. Sharing Intelligence"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page14.xhtml",
+      "href": "content/xhtml/chapter8.xhtml",
       "title": "8. Documentation"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page15.xhtml",
+      "href": "content/xhtml/chapter9.xhtml",
       "title": "9. Risk Profiling"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page17.xhtml",
+      "href": "content/xhtml/chapter10.xhtml",
       "title": "10. Identification of wildlife and wildlife produc.."
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page18.xhtml",
+      "href": "content/xhtml/chapter11.xhtml",
       "title": "11. The Search Kit"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page20.xhtml",
+      "href": "content/xhtml/chapter12.xhtml",
       "title": "12. Securing the evidence"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page21.xhtml",
+      "href": "content/xhtml/chapter13.xhtml",
       "title": "13. Chain of Custody"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page23.xhtml",
+      "href": "content/xhtml/chapter14.xhtml",
       "title": "14. Controlled Deliveries"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page24.xhtml",
+      "href": "content/xhtml/chapter15.xhtml",
       "title": "15. Interviewing Suspects"
     },
     {
-      "href": "EPUB/xhtml/raw/sdx6tv.xhtml",
+      "href": "content/xhtml/chapter16.xhtml",
       "title": "16. Forensic Considerations"
     },
     {
-      "href": "EPUB/xhtml/raw/slufku.xhtml",
+      "href": "content/xhtml/chapter17.xhtml",
       "title": "17. Financial Investigations"
     },
     {
-      "href": "EPUB/xhtml/htmlhqtiy/page28.xhtml",
+      "href": "content/xhtml/chapter18.xhtml",
       "title": "18. Transporting and Storing Wildlife and Wildlife.."
     },
     {
-      "href": "EPUB/xhtml/raw/page-1.xhtml",
+      "href": "content/xhtml/chapter19.xhtml",
       "title": "19. Disposal of Wildlife"
     },
     {
-      "href": "EPUB/xhtml/raw/page.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/backcover.xhtml",
       "title": "Back Cover"
     }
   ]
